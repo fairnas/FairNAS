@@ -4,4 +4,4 @@ torchsummary==1.5.1
 thop==0.0.31.post2004101309
 timm==0.1.18
 apex==0.1
-tqdm==4.28.1
+tqdm==4.66.3
